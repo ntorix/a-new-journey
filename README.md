@@ -1,5 +1,5 @@
 ---
-permalink: /index.njk
+permalink: /index.js
 ---
 # Digital Obsidian Garden
 This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
